@@ -1,0 +1,4 @@
+kymatio==0.3.0 
+torchhaarfeatures==0.0.2
+yapf==0.40.1
+timm==0.4.12 
