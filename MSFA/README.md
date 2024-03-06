@@ -59,9 +59,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			49.0
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\r50_IN_sup\fg_frcnn_IN_sup_sar_r50.py"> config </a>
+            <a href="local_configs\SARDet\r50_IN_sup\fg_frcnn_IN_sup_sar_r50.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; border-top: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			√<wbr>
@@ -72,9 +72,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			49.5
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\r50_dota_pretrain\fg_frcnn_dior_pretrain_sar_r50.py"> config </a>
+            <a href="local_configs\SARDet\r50_dota_pretrain\fg_frcnn_dior_pretrain_sar_r50.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			√<wbr>
@@ -85,18 +85,18 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			49.3
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\r50_dota_backbone_only\fg_frcnn_dota_pretrain_backboneonly_sar_r50.py"> config </a>
+            <a href="local_configs\SARDet\r50_dota_backbone_only\fg_frcnn_dota_pretrain_backboneonly_sar_r50.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			Framework
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			<b>50.2</b>
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\r50_dota_pretrain\fg_frcnn_dota_pretrain_sar_r50.py"> config </a>
+            <a href="local_configs\SARDet\r50_dota_pretrain\fg_frcnn_dota_pretrain_sar_r50.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="4" style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			SAR+WST
@@ -111,9 +111,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			49.2
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\r50_IN_sup\fg_frcnn_IN_sup_sar_wavelet_r50.py"> config </a>
+            <a href="local_configs\SARDet\r50_IN_sup\fg_frcnn_IN_sup_sar_wavelet_r50.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			√<wbr>
@@ -124,9 +124,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			50.1
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\r50_dota_pretrain\fg_frcnn_dior_pretrain_sar_wavelet_r50.py"> config </a>
+            <a href="local_configs\SARDet\r50_dota_pretrain\fg_frcnn_dior_pretrain_sar_wavelet_r50.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			√<wbr>
@@ -137,18 +137,18 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			49.6
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\r50_dota_backbone_only\fg_frcnn_dota_pretrain_backboneonly_sar_wavelet_r50.py"> config </a>
+            <a href="local_configs\SARDet\r50_dota_backbone_only\fg_frcnn_dota_pretrain_backboneonly_sar_wavelet_r50.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			Framework
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			<b>51.1</b>
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\r50_dota_pretrain\fg_frcnn_dota_pretrain_sar_wavelet_r50.py"> config </a>
+            <a href="local_configs\SARDet\r50_dota_pretrain\fg_frcnn_dota_pretrain_sar_wavelet_r50.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 </table>
 
 
@@ -206,9 +206,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			55.0
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\r50_IN_sup\fg_frcnn_IN_sup_sar_r50.py"> config </a>
+            <a href="local_configs\SARDet\r50_IN_sup\fg_frcnn_IN_sup_sar_r50.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -225,9 +225,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			57.5
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\r50_dota_pretrain\fg_frcnn_dota_pretrain_sar_wavelet_r50.py"> config </a>
+            <a href="local_configs\SARDet\r50_dota_pretrain\fg_frcnn_dota_pretrain_sar_wavelet_r50.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			Cascade RCNN&nbsp;
@@ -246,9 +246,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			60.3
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_detectors\mrcnn_cascade_IN_sup_r50_sar.py.py"> config </a>
+            <a href="local_configs\SARDet\other_detectors\mrcnn_cascade_IN_sup_r50_sar.py.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -265,9 +265,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			63.2
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_detectors\mrcnn_cascade_r50_dota_pretrained_sar_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_detectors\mrcnn_cascade_r50_dota_pretrained_sar_wavelet.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			Grid RCNN&nbsp;
@@ -286,9 +286,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			55.5
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_detectors\grcnn_IN_sup_r50_sar.py"> config </a>
+            <a href="local_configs\SARDet\other_detectors\grcnn_IN_sup_r50_sar.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -305,9 +305,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			60.0
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_detectors\grcnn_r50_dota_pretrained_sar_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_detectors\grcnn_r50_dota_pretrained_sar_wavelet.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="6" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			Single
@@ -330,9 +330,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			57.5
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_detectors\retinanet_r50_IN_sup_sar.py"> config </a>
+            <a href="local_configs\SARDet\other_detectors\retinanet_r50_IN_sup_sar.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -349,9 +349,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			59.4
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_detectors\retinanet_r50_dota_pretrained_sar_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_detectors\retinanet_r50_dota_pretrained_sar_wavelet.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			GFL&nbsp;
@@ -370,9 +370,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			58.1
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_detectors\gfl_r50_IN_sup_sar.py"> config </a>
+            <a href="local_configs\SARDet\other_detectors\gfl_r50_IN_sup_sar.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -389,9 +389,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			59.5
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_detectors\gfl_r50_dota_pretrained_sar_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_detectors\gfl_r50_dota_pretrained_sar_wavelet.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			FCOS&nbsp;
@@ -410,9 +410,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			50.4
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_detectors\fcos_r50_IN_sup_sar.py"> config </a>
+            <a href="local_configs\SARDet\other_detectors\fcos_r50_IN_sup_sar.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -429,9 +429,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			56.0
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_detectors\fcos_r50_dota_pretrained_sar_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_detectors\fcos_r50_dota_pretrained_sar_wavelet.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="6" style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			End to
@@ -454,9 +454,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			41.1
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_detectors\detr_r50_IN_sup_sar.py"> config </a>
+            <a href="local_configs\SARDet\other_detectors\detr_r50_IN_sup_sar.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -473,9 +473,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			58.2
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_detectors\detr_r50_dota_pretrained_sar_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_detectors\detr_r50_dota_pretrained_sar_wavelet.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			Deformable DETR&nbsp;
@@ -494,9 +494,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			61.2
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_detectors\deformable-detr_r50_IN_sup_sar.py"> config </a>
+            <a href="local_configs\SARDet\other_detectors\deformable-detr_r50_IN_sup_sar.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -513,9 +513,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			61.7
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_detectors\deformable-detr_r50_dota_pretrain_sar_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_detectors\deformable-detr_r50_dota_pretrain_sar_wavelet.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			Sparse RCNN&nbsp;
@@ -534,9 +534,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			48.7
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_detectors\sparse-rcnn_r50_IN_spu_sar.py"> config </a>
+            <a href="local_configs\SARDet\other_detectors\sparse-rcnn_r50_IN_spu_sar.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -553,9 +553,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			53.4
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_detectors\sparse-rcnn_r50_dota_pretrain_sar_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_detectors\sparse-rcnn_r50_dota_pretrain_sar_wavelet.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 		<td rowspan="2" style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
@@ -575,9 +575,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			55.0
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_detectors\dab-detr_r50_IN_sup_sar.py"> config </a>
+            <a href="local_configs\SARDet\other_detectors\dab-detr_r50_IN_sup_sar.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
@@ -595,9 +595,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			55.4
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_detectors\dab-detr_r50_dota_pretrain_sar_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_detectors\dab-detr_r50_dota_pretrain_sar_wavelet.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 </table>
 
 
@@ -655,9 +655,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			55.0
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\r50_IN_sup\fg_frcnn_IN_sup_sar_r50.py"> config </a>
+            <a href="local_configs\SARDet\r50_IN_sup\fg_frcnn_IN_sup_sar_r50.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -674,9 +674,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			57.5
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\r50_dota_pretrain\fg_frcnn_dota_pretrain_sar_wavelet_r50.py"> config </a>
+            <a href="local_configs\SARDet\r50_dota_pretrain\fg_frcnn_dota_pretrain_sar_wavelet_r50.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			R101&nbsp;
@@ -697,9 +697,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			56.3
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_r101.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_r101.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -716,9 +716,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			57.7
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_r101_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_r101_wavelet.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			R152&nbsp;
@@ -739,9 +739,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			57.9
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_r152.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_r152.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -758,9 +758,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			58.7
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_r152_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_r152_wavelet.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			ConvNext-T&nbsp;
@@ -781,9 +781,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			59.6
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_convnext_t.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_convnext_t.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -800,9 +800,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			62.1
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_convnext_t_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_convnext_t_wavelet.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			ConvNext-S&nbsp;
@@ -823,9 +823,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			59.8
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_convnext_s.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_convnext_s.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -842,9 +842,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			61.3
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_convnext_s_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_convnext_s_wavelet.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			ConvNext-B&nbsp;
@@ -865,9 +865,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			61.1
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_convnext_b.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_convnext_b.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -884,9 +884,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			62.4
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_convnext_b_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_convnext_b_wavelet.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			VAN-T&nbsp;
@@ -907,9 +907,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			53.3
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_van_t.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_van_t.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -926,9 +926,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			56.7
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_van_t_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_van_t_wavelet.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			VAN-S&nbsp;
@@ -949,9 +949,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			56.4
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_van_s.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_van_s.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -968,9 +968,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			60.4
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_van_s_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_van_s_wavelet.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			VAN-B&nbsp;
@@ -991,9 +991,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			60.6
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_van_b.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_van_b.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -1010,9 +1010,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			62.2
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_van_b_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_van_b_wavelet.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			Swin-T&nbsp;
@@ -1033,9 +1033,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			55.7
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_swin_t.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_swin_t.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -1052,9 +1052,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			58.8
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_swin_t_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_swin_t_wavelet.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			Swin-S&nbsp;
@@ -1075,9 +1075,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			60.6
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_swin_s.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_swin_s.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -1094,9 +1094,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			61.9
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_swin_s_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_swin_s_wavelet.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			Swin-B&nbsp;
@@ -1117,9 +1117,9 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			60.0
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_swin_b.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_swin_b.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -1136,12 +1136,11 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			62.5
 		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="MSFA\local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_swin_b_wavelet.py"> config </a>
+            <a href="local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_swin_b_wavelet.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href=""> weight </a>
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 </table>
-
-
+  
 ## Installation
 
 Our code depends on [PyTorch](https://pytorch.org/), [MMCV](https://github.com/open-mmlab/mmcv) and [MMDetection](https://github.com/open-mmlab/mmdetection).
@@ -1153,7 +1152,7 @@ conda create -y -n MSFA python=3.8
 conda activate MSFA
 
 # install pytorch
-conda install -y pytorch==2.0.1 torchvision==0.15.2 cudatoolkit=11.8 -c pytorch
+conda install pytorch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 pytorch-cuda=11.8 -c pytorch -c nvidia
 
 # install dependencies of openmmlab
 pip install -U openmim
