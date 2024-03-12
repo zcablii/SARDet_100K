@@ -5,6 +5,19 @@ Yuxuan Li, Xiang Li*, Weijie Li, Qibin Hou, Li Liu, Ming-ming Cheng, Jian Yang*
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sardet-100k-towards-open-source-benchmark-and/2d-object-detection-on-sardet-100k)](https://paperswithcode.com/sota/2d-object-detection-on-sardet-100k?p=sardet-100k-towards-open-source-benchmark-and)
 
+## 走过路过不要错过！！
+面对2024年的科研战场，你是否感到了前所未有的科研压力？计算机视觉的各大任务仿佛已经达到了饱和点，榜单一次又一次被那些拥有海量数据和计算资源的大模型所主宰。对于我们这些还在校园里奋斗的学生来说，手头的资源始终显得那么微不足道，似乎永远也竞争不过那些垄断科研的巨头。每一个方向似乎都被人挖得满满的，想发表一篇paper变得越来越难，快毕业的你是否也在焦虑地寻找一个真正属于自己的研究方向？多少次，我们都幻想能回到15年前ImageNet发布的那个夜晚，那时候没有群魔乱舞的注意力机制，也没有数以Billion计参数的大模型，每一个任务都是一片待开垦的蓝海……
+
+但是今天，告诉你，有这么一个方向，曾一度因为缺乏大规模数据集和寥寥无几的开源代码而默默无闻，它的发展似乎一直滞后。但随着开源大规模数据集的诞生和完善的代码库的出现，之前的难题统统烟消云散。现在，就如同被一道闪电击中，穿越回了数年前，还有一片未被充分开发的蓝海正展现在你的眼前，等待你去探索、去征服。
+
+所以，你想知道我说的是什么领域吗？今天，你不需要支付998，也不需要98，只需在 GitHub 上给我们一个Star，SAR目标检测的大礼包就能免费带回家！这里有你需要的一切：从大规模数据集到详尽的实现代码，我们都为你准备好了。是的，我在说的就是遥感目标检测的掌上明珠：SAR（合成孔径雷达）目标检测！可能听起来有些神秘，但这个领域的潜力和含金量，真正懂的人都心照不宣，DDDD，YYDS！它不仅完美契合当前的国家战略需求，而且无论是在科研界还是工业界，都有着广阔的应用前景和无限的可能性。近年来，在SAR检测领域发表文章变得更加容易，这预示着这一领域的迅速发展和对新思想、新技术的渴求。现在就加入SAR目标检测的行列吧！它就像15年前的比特币，20年前的房地产，现在入局不后悔！让我们一起驰骋在这片广袤的蓝海之中，探索它的未知之处，共同开拓它的无限可能！
+
+## Don't miss out as you pass by! 
+Facing the scientific research battlefield of 2024, do you feel unprecedented pressure in research? The major tasks in Computer Vision seem to have reached a saturation point, with the charts being dominated time and again by large models that have access to massive data and computational resources. For those of us still striving in academia, our resources always seem so insignificant, as if we could never compete with those giants monopolizing research. Every direction seems to be thoroughly explored, making it increasingly difficult to publish a paper. Are you, about to graduate, also anxiously looking for a research direction that truly belongs to you? How many times have we fantasized about going back to the night when ImageNet was released 15 years ago, when there was no chaotic dance of attention mechanisms, no models with billions of parameters, and every task was an uncharted blue ocean...
+
+But today, let me tell you my friend, about a direction that once lingered in obscurity due to the lack of large-scale datasets and scarce open-source codes, its development seemed to be always lagging. But with the emergence of open-source large-scale datasets and comprehensive code libraries, all previous problems have vanished like smoke. Now, as if struck by lightning and transported back several years, there is an undeveloped blue ocean in front of you, waiting for you to explore and conquer.
+
+So, do you want to know what field I am talking about? Today, you don't need to pay 998, not even 98, just give us a Star on GitHub, and the SAR object detection big gift pack can be taken home for free! Here you have everything you need: from large-scale datasets to detailed implementation codes, we have prepared everything for you. Yes, I am talking about the jewel in the crown of remote sensing target detection: SAR (Synthetic Aperture Radar) object detection! It might sound mysterious, but the potential and value of this field are well understood by those in the know. It not only perfectly matches the current national strategic needs but also has a wide range of applications and limitless possibilities in both the scientific and industrial communities. In recent years, publishing articles in the SAR detection field has become easier, indicating the rapid development of this field and its thirst for new ideas and technologies. Join the ranks of SAR object detection now! It's like Bitcoin 15 years ago, real estate 20 years ago, getting involved now is something you won't regret! Let's gallop together in this vast blue ocean, explore its unknowns, and jointly tap into its limitless possibilities!
 
 ![MSFA](MSFA/docs/SARDet100K_samples.png)
 
