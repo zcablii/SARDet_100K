@@ -428,7 +428,7 @@ at: [https://arxiv.org/pdf/2403.06534.pdf](https://arxiv.org/pdf/2403.06534.pdf)
 
 
 
-![MSFA](docs/MSFA.png)
+![MSFA](MSFA/docs/MSFA.png)
 
 
 ## Introduction
@@ -574,7 +574,7 @@ The train/test configure files used in the main paper are placed under ```local_
             <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 </table>
 
-
+## 
 
 
 <table style="border-collapse: collapse; border: none; border-spacing: 0px;">
@@ -1024,6 +1024,7 @@ The train/test configure files used in the main paper are placed under ```local_
 </table>
 
 
+## 
 
 
 <table style="border-collapse: collapse; border: none; border-spacing: 0px;">
