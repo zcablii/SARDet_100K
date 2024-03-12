@@ -426,7 +426,9 @@ at: [https://arxiv.org/pdf/2403.06534.pdf](https://arxiv.org/pdf/2403.06534.pdf)
 			Airborne SAR synthetic slice
 </table>
 
+##
 
+# MSFA: Multi-Stage with Filter Augmentation pretraining framework 
 
 ![MSFA](MSFA/docs/MSFA.png)
 
