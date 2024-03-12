@@ -443,7 +443,7 @@ The train/test configure files used in the main paper are placed under ```local_
 ## Results and models
 
 
-![MSFA_generalizability](docs/MSFA_detectors_backbones.png)
+![MSFA_generalizability](MSFA/docs/MSFA_detectors_backbones.png)
 
 <table style="border-collapse: collapse; border: none; border-spacing: 0px;">
 	<caption>
