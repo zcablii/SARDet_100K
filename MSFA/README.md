@@ -1,5 +1,6 @@
 ## SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection" at: [https://arxiv.org/pdf/2403.06534.pdf](https://arxiv.org/pdf/2403.06534.pdf)
 Yuxuan Li, Xiang Li*, Weijie Li, Qibin Hou, Li Liu, Ming-ming Cheng, Jian Yang*
+
 李宇轩，李翔*，李玮杰，侯淇彬，刘丽，程明明，杨健*
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sardet-100k-towards-open-source-benchmark-and/2d-object-detection-on-sardet-100k)](https://paperswithcode.com/sota/2d-object-detection-on-sardet-100k?p=sardet-100k-towards-open-source-benchmark-and)
