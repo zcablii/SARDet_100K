@@ -13,7 +13,7 @@ This repository is the official implementation of Multi-Stage with Filter Augmen
 at: [https://arxiv.org/pdf/2403.06534.pdf](https://arxiv.org/pdf/2403.06534.pdf)
 
 Filter Augmentation code is placed under ```msfa/models/backbones/MSFA.py```. 
-The code about of SARDet-100K dataset is placed under ```MSFA\msfa\datasets\SAR_Det.py```.
+The code about of SARDet-100K dataset is placed under ```msfa/datasets/SAR_Det.py```.
 The train/test configure files used in the main paper are placed under ```local_configs```.
 
 
