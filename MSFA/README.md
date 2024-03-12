@@ -1,4 +1,4 @@
-## SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection" at: [https://arxiv.org/pdf/.pdf](https://arxiv.org/pdf/.pdf)
+## SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection" at: [https://arxiv.org/pdf/2403.06534.pdf](https://arxiv.org/pdf/2403.06534.pdf)
 
 ![MSFA](docs/MSFA.png)
 
@@ -10,7 +10,7 @@ Synthetic Aperture Radar (SAR) object detection has gained significant attention
 ## Introduction
 
 This repository is the official implementation of Multi-Stage with Filter Augmentation (MSFA) pretraining framework in "SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection" 
-at: [https://arxiv.org/pdf/.pdf](https://arxiv.org/pdf/.pdf)
+at: [https://arxiv.org/pdf/2403.06534.pdf](https://arxiv.org/pdf/2403.06534.pdf)
 
 Filter Augmentation code is placed under ```msfa/models/backbones/MSFA.py```. 
 The code about of SARDet-100K dataset is placed under ```MSFA\msfa\datasets\SAR_Det.py```.
@@ -1184,11 +1184,11 @@ Please see [get_started.md](https://github.com/open-mmlab/mmdetection/blob/main/
 If you use this toolbox or benchmark in your research, please cite this project.
 
 ```bibtex
-@article{li2023large,
-  title   = {Large Selective Kernel Network for Remote Sensing Object Detection},
-  author  = {Li, Yuxuan and Hou, Qibin and Zheng, Zhaohui and Cheng, Mingming and Yang, Jian and Li, Xiang},
-  journal={ArXiv},
-  year={2023}
+@article{li2024sardet100k,
+      title={SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection}, 
+      author={Yuxuan Li and Xiang Li and Weijie Li and Qibin Hou and Li Liu and Ming-Ming Cheng and Jian Yang},
+      year={2024},
+      journal={arXiv},
 }
 ```
 

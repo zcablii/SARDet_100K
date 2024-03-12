@@ -1,4 +1,4 @@
-## SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection" at: [https://arxiv.org/pdf/.pdf](https://arxiv.org/pdf/.pdf)
+## SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection" at: [https://arxiv.org/pdf/2403.06534.pdf](https://arxiv.org/pdf/2403.06534.pdf)
 
 
 ![MSFA](MSFA/docs/SARDet100K_samples.png)
@@ -13,9 +13,15 @@ Synthetic Aperture Radar (SAR) object detection has gained significant attention
 ## Introduction
 
 This repository is the official site for "SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection" 
-at: [https://arxiv.org/pdf/.pdf](https://arxiv.org/pdf/.pdf)
+at: [https://arxiv.org/pdf/2403.06534.pdf](https://arxiv.org/pdf/2403.06534.pdf)
 
-**DATASET DOWNLOAD at** [Here](https://...)
+**DATASET DOWNLOAD at:** 
+
+* Baidu Disk: [Dataset](https://pan.baidu.com/s/1dIFOm4V2pM_AjhmkD1-Usw?pwd=SARD)
+* OneDrive: [Images](https://liveuclac-my.sharepoint.com/:f:/g/personal/zcablii_ucl_ac_uk/EutczQ-0LB5BmQ1BEguS-PAB8mLXUChRWPVY2Bn5X4-0_w?e=bxPZij), [Annotations](https://liveuclac-my.sharepoint.com/:f:/g/personal/zcablii_ucl_ac_uk/ElrfZN95SUpPmT9YlvRCV7YBF7-cOuVJlRXJXO9-Y4S9CQ?e=3m00JW)
+
+**(Only Train and Val sets are released so far.)**
+
 
 <table style="border-collapse: collapse; border: none; border-spacing: 0px;">
 	<caption>
@@ -430,11 +436,11 @@ at: [https://arxiv.org/pdf/.pdf](https://arxiv.org/pdf/.pdf)
 If you use this toolbox or benchmark in your research, please cite this project.
 
 ```bibtex
-@article{li2023large,
-  title   = {Large Selective Kernel Network for Remote Sensing Object Detection},
-  author  = {Li, Yuxuan and Hou, Qibin and Zheng, Zhaohui and Cheng, Mingming and Yang, Jian and Li, Xiang},
-  journal={ArXiv},
-  year={2023}
+@article{li2024sardet100k,
+      title={SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection}, 
+      author={Yuxuan Li and Xiang Li and Weijie Li and Qibin Hou and Li Liu and Ming-Ming Cheng and Jian Yang},
+      year={2024},
+      journal={arXiv},
 }
 ```
 
