@@ -10,7 +10,7 @@ model = dict(
     
     backbone=dict(
         _delete_ = True,
-        type='Self_features_model',
+        type='MSFA',
         use_sar=True, 
         use_wavelet=True,
         # input_size = (512,512), 
