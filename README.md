@@ -38,6 +38,13 @@ at: [https://arxiv.org/pdf/2403.06534.pdf](https://arxiv.org/pdf/2403.06534.pdf)
 * Baidu Disk: [Dataset](https://pan.baidu.com/s/1dIFOm4V2pM_AjhmkD1-Usw?pwd=SARD)
 * OneDrive: [Images](https://liveuclac-my.sharepoint.com/:f:/g/personal/zcablii_ucl_ac_uk/EutczQ-0LB5BmQ1BEguS-PAB8mLXUChRWPVY2Bn5X4-0_w?e=bxPZij), [Annotations](https://liveuclac-my.sharepoint.com/:f:/g/personal/zcablii_ucl_ac_uk/ElrfZN95SUpPmT9YlvRCV7YBF7-cOuVJlRXJXO9-Y4S9CQ?e=3m00JW)
 
+
+**Model Weights DOWNLOAD at:** 
+
+* Baidu Disk: [Models](https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo)
+* OneDrive: [Models](https://liveuclac-my.sharepoint.com/:f:/g/personal/zcablii_ucl_ac_uk/EqaZRwGT9VlAsuw54gqwwkoBxSzVd1cyJldFBMUUFDy0jA?e=IVHMkc)
+
+
 **(Only Train and Val sets are released so far.)**
 
 
