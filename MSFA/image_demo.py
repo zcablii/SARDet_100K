@@ -10,9 +10,8 @@ Example:
 
         python demo/image_demo.py demo/demo.jpg rtmdet-s
 
-        python demo/image_demo.py ../0000414.jpg \
-        local_configs/MoE/frcnn_sardet_swin_l.py \
-        --weights work_dirs/frcnn_sardet_swin_l/best_coco_bbox_mAP_epoch_11.pth --out-dir ./
+        python demo/image_demo.py demo_img.jpg local_configs/SARDet/r50_dota_pretrain/fg_frcnn_dota_pretrain_sar_wavelet_r50.py \
+        --weights work_dirs/fg_frcnn_dota_pretrain_sar_wavelet_r50/best_coco_bbox_mAP_epoch_11.pth --out-dir ./
 
         python demo/image_demo.py demo/demo.jpg \
         glip_atss_swin-t_a_fpn_dyhead_pretrain_obj365 --texts bench
