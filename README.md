@@ -1,3 +1,12 @@
+# 🔥🔥 PRCV2024 SARDet目标检测竞赛开赛啦 🔥🔥
+
+大规模合成孔径雷达图像多类别目标检测竞赛来啦！南开大学[VCIP](https://mmcheng.net/)课题组和CSIG机器视觉专委会、深势科技在PRCV2024联合举办了SARDet目标检测竞赛，本赛道不仅提供实时排行，开箱即用的baseline、工具箱和大规模数据集，还有深势科技官网提供的免费算力券，欢迎广大目标检测爱好者前来华山论剑！
+
+竞赛详情/报名：[PRCV2024 SARDet](https://nb.bohrium.dp.tech/competitions/detail/6816082019?tab=introduce)
+
+
+---
+
 ## "SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection" at: [https://arxiv.org/pdf/2403.06534.pdf](https://arxiv.org/pdf/2403.06534.pdf)
 Yuxuan Li, Xiang Li*, Weijie Li, Qibin Hou, Li Liu, Ming-ming Cheng, Jian Yang*
 
