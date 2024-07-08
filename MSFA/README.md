@@ -7,6 +7,12 @@ Yuxuan Li, Xiang Li*, Weijie Li, Qibin Hou, Li Liu, Ming-ming Cheng, Jian Yang*
 
 ![MSFA](docs/MSFA.png)
 
+
+
+## This repository now supports DenoDet!! ##
+
+"DenoDet: Attention as Deformable Multi-Subspace Feature Denoising for Target Detection in SAR Images" at: [https://arxiv.org/pdf/2406.02833](https://arxiv.org/pdf/2406.02833)
+
 ## Abstract
 
 Synthetic Aperture Radar (SAR) object detection has gained significant attention recently due to its irreplaceable all-weather imaging capabilities. However, this research field suffers from both limited public datasets (mostly comprising <2K images with only mono-category objects) and inaccessible source code. To tackle these challenges, we establish a new benchmark dataset and an open-source method for large-scale SAR object detection. Our dataset, SARDet-100K, is a result of intense surveying, collecting, and standardizing 10 existing SAR detection datasets, providing a large-scale and diverse dataset for research purposes. To the best of our knowledge, SARDet-100K is the first COCO-level large-scale multi-class SAR object detection dataset ever created. With this high-quality dataset, we conducted comprehensive experiments and uncovered a crucial challenge in SAR object detection: the substantial disparities between the pretraining on RGB datasets and finetuning on SAR datasets in terms of both data domain and model structure. To bridge these gaps, we propose a novel Multi-Stage with Filter Augmentation (MSFA) pretraining framework that tackles the problems from the perspective of data input, domain transition, and model migration. The proposed MSFA method significantly enhances the performance of SAR object detection models while demonstrating exceptional generalizability and flexibility across diverse models. This work aims to pave the way for further advancements in SAR object detection. 
@@ -314,7 +320,7 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="padding-right: 3pt; padding-left: 3pt;">
             <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
-		<td rowspan="6" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td rowspan="7" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			Single
 			<br>
 			    Stage
@@ -358,7 +364,7 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="padding-right: 3pt; padding-left: 3pt;">
             <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
-		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td rowspan="3" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			GFL&nbsp;
 		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			IMP
@@ -393,6 +399,25 @@ The train/test configure files used in the main paper are placed under ```local_
 			66.2
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			59.5
+		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+            <a href="local_configs\SARDet\other_detectors\gfl_r50_dota_pretrained_sar_wavelet.py"> config </a>
+		<td style="padding-right: 3pt; padding-left: 3pt;">
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
+	<tr>
+		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+			DenoDet
+		<td style="border-bottom: 1px solid black; padding-right: 3pt; padding-left: 3pt;">
+			55.4<b> (+5.6)</b>
+		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+			84.7
+		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+			58.3
+		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+			49.5
+		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+			67.6
+		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
+			63.2
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
             <a href="local_configs\SARDet\other_detectors\gfl_r50_dota_pretrained_sar_wavelet.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
@@ -1190,11 +1215,19 @@ If you use this toolbox or benchmark in your research, please cite this project.
 
 ```bibtex
 @article{li2024sardet100k,
-      title={SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection}, 
-      author={Yuxuan Li and Xiang Li and Weijie Li and Qibin Hou and Li Liu and Ming-Ming Cheng and Jian Yang},
-      year={2024},
-      journal={arXiv},
+	title={SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection}, 
+	author={Yuxuan Li and Xiang Li and Weijie Li and Qibin Hou and Li Liu and Ming-Ming Cheng and Jian Yang},
+	year={2024},
+	journal={arXiv},
 }
+
+@article{dai2024denodet,
+	title={DenoDet: Attention as Deformable Multi-Subspace Feature Denoising for Target Detection in SAR Images},
+	author={Dai, Yimian and Zou, Minrui and Li, Yuxuan and Li, Xiang and Ni, Kang and Yang, Jian},
+	journal={arXiv preprint arXiv:2406.02833},
+	year={2024}
+}
+
 ```
 
 ## License

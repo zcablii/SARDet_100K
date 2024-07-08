@@ -4,6 +4,8 @@
 
 竞赛详情/报名：[PRCV2024 SARDet](https://nb.bohrium.dp.tech/competitions/detail/6816082019?tab=introduce)
 
+## This repository now supports DenoDet!! ##
+"DenoDet: Attention as Deformable Multi-Subspace Feature Denoising for Target Detection in SAR Images" at: [https://arxiv.org/pdf/2406.02833](https://arxiv.org/pdf/2406.02833)
 
 ---
 
@@ -768,7 +770,7 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="padding-right: 3pt; padding-left: 3pt;">
             <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
-		<td rowspan="6" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td rowspan="7" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			Single
 			<br>
 			    Stage
@@ -812,7 +814,7 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="padding-right: 3pt; padding-left: 3pt;">
             <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
-		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+		<td rowspan="3" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			GFL&nbsp;
 		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			IMP
@@ -847,6 +849,25 @@ The train/test configure files used in the main paper are placed under ```local_
 			66.2
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			59.5
+		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+            <a href="local_configs\SARDet\other_detectors\gfl_r50_dota_pretrained_sar_wavelet.py"> config </a>
+		<td style="padding-right: 3pt; padding-left: 3pt;">
+            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
+	<tr>
+		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+			DenoDet
+		<td style="border-bottom: 1px solid black; padding-right: 3pt; padding-left: 3pt;">
+			55.4<b> (+5.6)</b>
+		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+			84.7
+		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+			58.3
+		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+			49.5
+		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
+			67.6
+		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
+			63.2
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
             <a href="local_configs\SARDet\other_detectors\gfl_r50_dota_pretrained_sar_wavelet.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
@@ -1648,10 +1669,17 @@ If you use this toolbox or benchmark in your research, please cite this project.
 
 ```bibtex
 @article{li2024sardet100k,
-      title={SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection}, 
-      author={Yuxuan Li and Xiang Li and Weijie Li and Qibin Hou and Li Liu and Ming-Ming Cheng and Jian Yang},
-      year={2024},
-      journal={arXiv},
+	title={SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection}, 
+	author={Yuxuan Li and Xiang Li and Weijie Li and Qibin Hou and Li Liu and Ming-Ming Cheng and Jian Yang},
+	year={2024},
+	journal={arXiv},
+}
+
+@article{dai2024denodet,
+	title={DenoDet: Attention as Deformable Multi-Subspace Feature Denoising for Target Detection in SAR Images},
+	author={Dai, Yimian and Zou, Minrui and Li, Yuxuan and Li, Xiang and Ni, Kang and Yang, Jian},
+	journal={arXiv preprint arXiv:2406.02833},
+	year={2024}
 }
 ```
 
