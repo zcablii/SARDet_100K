@@ -1669,11 +1669,11 @@ other researchers for permitting us to integrate their datasets. Their contribut
 If you use this toolbox or benchmark in your research, please cite this project.
 
 ```bibtex
-@article{li2024sardet100k,
+@inproceedings{li2024sardet100k,
 	title={SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection}, 
 	author={Yuxuan Li and Xiang Li and Weijie Li and Qibin Hou and Li Liu and Ming-Ming Cheng and Jian Yang},
 	year={2024},
-	journal={arXiv},
+	booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)},
 }
 
 @article{dai2024denodet,
