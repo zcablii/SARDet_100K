@@ -8,7 +8,7 @@
 
 ---
 
-## Jittor version implementation at [here](https://github.com/NK-JittorCV/nk-det) ## 
+## Jittor version implementation at [NK-JittorCV/nk-det](https://github.com/NK-JittorCV/nk-det) ## 
 
 ---
 
