@@ -874,7 +874,7 @@ The train/test configure files used in the main paper are placed under ```local_
 		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			63.2
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_detectors\gfl_r50_dota_pretrained_sar_wavelet.py"> config </a>
+            <a href="https://github.com/zcablii/SARDet_100K/blob/main/MSFA/local_configs/DeonDet/gfl_r50_denodet_sardet.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
             <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
 	<tr>
