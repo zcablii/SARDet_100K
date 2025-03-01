@@ -1,6 +1,6 @@
-# 🔥🔥 SARDet-100K has been accepted at NeurIPS 2024 as a spotlight!!  🔥🔥
+# 🔥🔥 SARDet-100K has been accepted at NeurIPS 2024 as a spotlight!!  
 
-# 🔥🔥 Our new work [RSAR](https://github.com/zhasion/RSAR) is accepted by CVPR2025!!! 🔥🔥
+# 🔥🔥 Our new work [RSAR](https://github.com/zhasion/RSAR) is accepted by CVPR2025!!! 
 "RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark"  [![paper](https://img.shields.io/badge/arXiv-2501.04440-brown.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2501.04440)  [![code](https://img.shields.io/badge/Github-RSAR-blue.svg?logo=Github&logoColor=white)](https://github.com/zhasion/RSAR)
 
 It contains a large multi-class rotated SAR object detection dataset, which is an approximate rotation-labeled version of SARDet-100K.
