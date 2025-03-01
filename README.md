@@ -1,7 +1,9 @@
 # 🔥🔥 SARDet-100K has been accepted at NeurIPS 2024 as a spotlight!!  🔥🔥
 
----
+# 🔥🔥 Our new work [RSAR](https://github.com/zhasion/RSAR) is accepted by CVPR2025!!! 🔥🔥
+"RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark"  [![paper](https://img.shields.io/badge/arXiv-2501.04440-brown.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2501.04440)  [![code](https://img.shields.io/badge/Github-RSAR-blue.svg?logo=Github&logoColor=white)](https://github.com/zhasion/RSAR)
 
+It contains a large multi-class rotated SAR object detection dataset, which is an approximate rotation-labeled version of SARDet-100K.
 
 ## This repository now supports DenoDet!! ##
 "DenoDet: Attention as Deformable Multi-Subspace Feature Denoising for Target Detection in SAR Images" at: [https://arxiv.org/pdf/2406.02833](https://arxiv.org/pdf/2406.02833)
@@ -11,10 +13,6 @@
 ## Jittor version implementation at [NK-JittorCV/nk-det](https://github.com/NK-JittorCV/nk-det) ## 
 
 ---
-## Our new work [RSAR](https://github.com/zhasion/RSAR) is accepted by CVPR2025!!!
-"RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark"  [![paper](https://img.shields.io/badge/arXiv-2501.04440-brown.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2501.04440)  [![code](https://img.shields.io/badge/Github-RSAR-blue.svg?logo=Github&logoColor=white)](https://github.com/zhasion/RSAR)
-
-It contains a large multi-class rotated SAR object detection dataset, which is an approximate rotation-labeled version of SARDet-100K.
 
 ## "SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection" at: [https://arxiv.org/pdf/2403.06534.pdf](https://arxiv.org/pdf/2403.06534.pdf)
 Yuxuan Li, Xiang Li*, Weijie Li, Qibin Hou, Li Liu, Ming-ming Cheng, Jian Yang*
@@ -1684,18 +1682,18 @@ If you use this toolbox or benchmark in your research, please cite this project.
 	booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)},
 }
 
+@article{zhang2025rsar,
+  title={RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark},
+  author={Zhang, Xin and Yang, Xue and Li, Yuxuan and Yang, Jian and Cheng, Ming-Ming and Li, Xiang},
+  journal={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  year={2025}
+}
+
 @article{dai2024denodet,
 	title={DenoDet: Attention as Deformable Multi-Subspace Feature Denoising for Target Detection in SAR Images},
 	author={Dai, Yimian and Zou, Minrui and Li, Yuxuan and Li, Xiang and Ni, Kang and Yang, Jian},
 	journal={arXiv preprint arXiv:2406.02833},
 	year={2024}
-}
-
-@article{zhang2025rsar,
-  title={RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark},
-  author={Zhang, Xin and Yang, Xue and Li, Yuxuan and Yang, Jian and Cheng, Ming-Ming and Li, Xiang},
-  journal={arXiv preprint arXiv:2501.04440},
-  year={2025}
 }
 ```
 
@@ -1706,5 +1704,3 @@ If you use this toolbox or benchmark in your research, please cite this project.
 ## License
 
 This project is released under the [Attribution-NonCommercial 4.0 International](LICENSE).
-
- 
